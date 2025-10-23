@@ -22,7 +22,7 @@
 ---
 
 <p>
-Conversant embedded professional with <b>18+ years</b> of experience in embedded software development for mobile computing, IoT, multimedia, and medical devices.
+Conversant embedded professional with experience in embedded software development for mobile computing, IoT, multimedia, and medical devices.
 Specialized in device drivers, firmware, algorithms, and application development across OS/Non-OS environments.
 </p>
 
