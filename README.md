@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Govind Singh</h1>
-<h3 align="center">Embedded Systems Expert | Linux Kernel & IoT Specialist</h3>
 
 <p align="center">
   <a href="https://github.com/govindsi" target="_blank">
